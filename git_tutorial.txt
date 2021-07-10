@@ -1,0 +1,10 @@
+so what i have learnt so far about git ? 
+1.initialize git repo - git init 
+2.add all items inside git repo - git add -A 
+3.how to open new branch - git branch name_of_new_branch
+4.check branches - git branch 
+5.go to a branch - git checkout name_of_new_branch
+6.reset to previous version - git rest --hard versionId 
+7.merge two branch - git merge other_branch_name_that_we want_to_merge_with_the_current_one
+8.git configuration with github  - git config user.name name_of_user
+9.git configuration with github - git config user.email used_email
